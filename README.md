@@ -1,4 +1,4 @@
-# A1ERTA Active Directory Attack Toolkit
+# Active Directory Attack Toolkit
 
 A curated collection of powerful tools commonly used during **red team operations**, **penetration testing**, and **Active Directory exploitation** scenarios.
 
